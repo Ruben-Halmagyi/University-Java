@@ -1,0 +1,14 @@
+This is a project im currently working on with 2 other collegues.
+Task is, to create a server-client based database management system.
+
+So far we created a basic UI interface, and implemented the following methods:
+-Create Database
+-Drop Database
+
+To be implemented (with all their extensions):
+-Create Table
+-Drop Table
+-Insert into
+-Delete
+-Update
+-Select
